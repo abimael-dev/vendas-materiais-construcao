@@ -23,8 +23,8 @@ node index.js
 5. O servidor será iniciado e você poderá acessar as rotas pelo navegador ou por ferramentas como Postman / Insomnia.
 
 🎯 Objetivo do projeto
-Este projeto foi criado para praticar:
-Desenvolvimento de APIs simples;
-Manipulação de arquivos JSON;
-Uso básico de Node.js;
-Organização de código em projetos web.
+1. Este projeto foi criado para praticar:
+2. Desenvolvimento de APIs simples;
+3. Manipulação de arquivos JSON;
+4. Uso básico de Node.js;
+5. Organização de código em projetos web.
