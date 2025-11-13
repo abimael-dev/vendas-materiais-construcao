@@ -3,17 +3,17 @@
 Este projeto foi desenvolvido como atividade final da disciplina Programação Web.
 O sistema simula a venda e o gerenciamento de materiais de construção usando Node.js e um arquivo JSON como banco de dados.
 
-📌 Funcionalidades
-Listar todos os materiais;
-Adicionar novos materiais;
-Atualizar informações dos materiais;
-Remover materiais;
-Armazenar dados em um arquivo JSON.
+📌 Funcionalidades:
+1. Listar todos os materiais;
+2. Adicionar novos materiais;
+3. Atualizar informações dos materiais;
+4. Remover materiais;
+5. Armazenar dados em um arquivo JSON.
 
 🚀 Tecnologias utilizadas
-Node.js;
-JavaScript;
-JSON como banco de dados local.
+1. Node.js;
+2. JavaScript;
+3. JSON como banco de dados local.
 
 ▶️ Como executar o projeto
 1. Certifique-se de que você tem o Node.js instalado.
