@@ -18,9 +18,9 @@ JSON como banco de dados local.
 ▶️ Como executar o projeto
 1. Certifique-se de que você tem o Node.js instalado.
 2. Abra o terminal dentro da pasta do projeto.
-3. Execute o comando abaixo:
+3. Execute o comando:
 node index.js
-4. O servidor será iniciado e você poderá acessar as rotas pelo navegador ou por ferramentas como Postman / Insomnia.
+5. O servidor será iniciado e você poderá acessar as rotas pelo navegador ou por ferramentas como Postman / Insomnia.
 
 🎯 Objetivo do projeto
 Este projeto foi criado para praticar:
