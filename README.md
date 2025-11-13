@@ -5,7 +5,7 @@ O sistema simula a venda e o gerenciamento de materiais de construção usando N
 
 📌 Funcionalidades:
 1. Listar todos os materiais;
-2. Adicionar novos materiais;
+2. Colocar novos materiais;
 3. Atualizar informações dos materiais;
 4. Remover materiais;
 5. Armazenar dados em um arquivo JSON.
