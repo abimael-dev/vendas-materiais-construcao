@@ -16,8 +16,8 @@ O sistema simula a venda e o gerenciamento de materiais de construção usando N
 3. JSON como banco de dados local.
 
 ▶️ Como executar o projeto
-1. Certifique-se de que você tem o Node.js instalado.
-2. Abra o terminal dentro da pasta do projeto.
+1. Certifique-se de que você tem o Node.js instalado;
+2. Abra o terminal dentro da pasta do projeto;
 3. Execute o comando:
 node index.js
 5. O servidor será iniciado e você poderá acessar as rotas pelo navegador ou por ferramentas como Postman / Insomnia.
