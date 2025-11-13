@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "nome": "Tijolo 8 furos",
+    "preco": 1.2,
+    "categoria": "Alvenaria",
+    "estoque": 500
+  },
+  {
+    "id": 3,
+    "nome": "Tinta Suvinil 18L",
+    "preco": 279.9,
+    "categoria": "Pintura",
+    "estoque": 25
+  },
+  {
+    "nome": "Areia Média 1m³",
+    "preco": 129.9,
+    "categoria": "Areia",
+    "estoque": 40,
+    "id": 4
+  },
+  {
+    "nome": "Areia Média 1m³",
+    "preco": 129.9,
+    "categoria": "Areia",
+    "estoque": 40,
+    "id": 5
+  }
+]
