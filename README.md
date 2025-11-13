@@ -22,13 +22,6 @@ JSON como banco de dados local.
 node index.js
 4. O servidor será iniciado e você poderá acessar as rotas pelo navegador ou por ferramentas como Postman / Insomnia.
 
-📁 Estrutura do projeto
-vendas-materiais-construcao/
-│
-├── index.js          → Arquivo principal do servidor
-├── materiais.json    → Arquivo com os dados do sistema
-└── README.md         → Descrição e instruções do projeto
-
 🎯 Objetivo do projeto
 Este projeto foi criado para praticar:
 Desenvolvimento de APIs simples;
